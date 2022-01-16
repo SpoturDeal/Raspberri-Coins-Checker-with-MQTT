@@ -46,9 +46,9 @@ The only missing requirement is bitvao
 sudo npm install -y bitvavo
 ```
 
-Copy the coins-check.js file to you directory.
+Copy the coins-check.js file to your directory.
 
-Use nano to enter you own credentials.
+# Use nano to enter your own credentials.
 
 To start to script.
 
@@ -58,7 +58,7 @@ node coins-check.js
 
 You can check with MQTT Explorer if the data is being published.
 
-To autostart the script after reboot or startup edit you /etc/rc.local file
+To autostart the script after reboot or startup edit your /etc/rc.local file
 Add the following line
 
 ```
